@@ -28,7 +28,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-Pending
+- Solution URL: [Github repository](https://github.com/memominguez/recipe-page)
+- Live Site URL: [Github page](https://memominguez.github.io/recipe-page)
 
 ## My process
 
